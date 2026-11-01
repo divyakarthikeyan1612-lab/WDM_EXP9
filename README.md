@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 31-10-2026
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,15 @@ for this purpose.
 
 
 ### Output:
+The Twitter dataset containing 31,962 examples was successfully processed using RapidMiner. Text preprocessing operations were performed, and the processed dataset and word list were generated.
+<img width="1920" height="1080" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/22baf4ff-41ed-4f97-9e95-b7905a572b99" />
+<img width="1920" height="1080" alt="Screenshot (251)" src="https://github.com/user-attachments/assets/0d63a45d-1583-415a-bce8-ca3de7ad54ee" />
+<img width="1920" height="1080" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/e33af391-b045-4f32-a9e6-8f37ba289603" />
+
+
+
 
 ### Result:
+Thus, preprocessing techniques on Twitter data were successfully implemented using Altair RapidMiner Studio.
+
+One small note: Indha latest screenshot execution successful-nu confirm pannudhu; number removal rule add pannirukkiya-nu mattum screenshot-la theriyala.
